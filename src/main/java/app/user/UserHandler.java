@@ -1,4 +1,4 @@
-package app.client;
+package app.user;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
